@@ -1,16 +1,23 @@
-## Hi there 👋
+# 👋 Hi, I'm [Your Name]!
 
-<!--
-**bri-ken/bri-ken** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I'm a BSIT student aspiring to be a full Stack Developer, and I am currently diving deep into web development, software engineering. I explore on building clean, functional, and efficient websites — whether it’s for fun or for use.
 
-Here are some ideas to get you started:
+## 💻 What I'm Working On
+- Learning JavaScript and Python
+- Intern at SharePro, Inc.
+- Exploring Full Stack development with a focus on real-world applications
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 🚀 Goals
+- Become a skilled Full Stack Developer
+- Contribute to open-source projects
+- Always be learning and improving
+
+## 🛠 Tech Stack (So Far)
+- HTML, CSS, JavaScript, PHP
+- MySQL, XAMPP
+
+## 📫 Let's Connect!
+Feel free to reach out or connect:
+- GitHub: bri-ken 👋
+
+Thanks for stopping by! 🚀
