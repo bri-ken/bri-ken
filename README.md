@@ -1,4 +1,4 @@
-# 👋 Hi, I'm [Your Name]!
+# 👋 Hi, I'm Kenneth!
 
 I'm a BSIT student aspiring to be a full Stack Developer, and I am currently diving deep into web development, software engineering. I explore on building clean, functional, and efficient websites — whether it’s for fun or for use.
 
